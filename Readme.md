@@ -126,5 +126,7 @@ To improve G7 public key certificates are now used in G8 to communicate the publ
 
 ### Authors:
 [Eduarda Vieira](https://github.com/eduardavieira)
+
 [Cláudia Abreu](https://github.com/claudiarmabreu)
+
 [José Alexandre Ferreira](https://github.com/jose-alexandre98)
